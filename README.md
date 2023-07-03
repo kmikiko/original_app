@@ -5,7 +5,7 @@
 * Ruby on Rails 6.1.7
 
 ## 就業Termの技術
-* Devise
+* devise
 * お気に入り機能
 * フォロー機能
 * AWS(EC2)へのデプロイ
@@ -21,6 +21,7 @@
 $ git clone git@github.com:kmikiko/original_app.git
 $ cd original_app
 $ bundle
+$ yarn
 $ rails db:create
 $ rails db:migrate
 $ rails db:seed
@@ -33,14 +34,14 @@ https://docs.google.com/spreadsheets/d/1rgskN4CPZRHm1_0nyAryxIcdYGyQ6PzMTHMbZoDA
 
 ## ワイヤーフレーム
 https://www.figma.com/file/vuSW4oWcpo730zwOtS08XB/Untitled?type=design&node-id=0-1&mode=design&t=W2ii61JIkdBxISu1-0
-![ワイヤーフレーム3 ](https://github.com/kmikiko/original_app/assets/127947837/a453b8d0-7495-4e05-a8d5-636a65a507b9)
-![ワイヤーフレーム2 ](https://github.com/kmikiko/original_app/assets/127947837/e459f80a-66ef-4efa-a456-f946cbfad72c)
-![ワイヤーフレーム１](https://github.com/kmikiko/original_app/assets/127947837/f9729a2d-5459-447e-b65d-78ea10f082df)
+![ワイヤーフレーム１](https://github.com/kmikiko/original_app/assets/127947837/83b4f5ef-c42d-49c1-aac3-7b8c7d51c228)
+![ワイヤーフレーム2 ](https://github.com/kmikiko/original_app/assets/127947837/6f2395c0-7371-4a1f-bad9-32e54f34f599)
+![ワイヤーフレーム3 ](https://github.com/kmikiko/original_app/assets/127947837/2c9fba2a-62da-473b-a10f-3c1239b54da6)
 
 
 ## 画面遷移図
-![original_app画面遷移 drawio ](https://github.com/kmikiko/original_app/assets/127947837/98664acb-8f34-402c-8d4e-4c5b7ce99331)
+![original_app画面遷移 drawio ](https://github.com/kmikiko/original_app/assets/127947837/d4954297-867c-41e7-908b-61d6dcb5ed18)
 
 
 ## ER図　
-![original_app_er drawio ](https://github.com/kmikiko/original_app/assets/127947837/c2600800-9bb3-41c9-a7a7-c658832487fb)
+![original_app_er drawio ](https://github.com/kmikiko/original_app/assets/127947837/5254fa02-b991-49af-8e91-da88c88d9165)
