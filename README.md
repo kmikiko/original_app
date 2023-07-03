@@ -40,7 +40,7 @@ https://www.figma.com/file/vuSW4oWcpo730zwOtS08XB/Untitled?type=design&node-id=0
 
 
 ## 画面遷移図
-![original_app画面遷移 drawio ](https://github.com/kmikiko/original_app/assets/127947837/d4954297-867c-41e7-908b-61d6dcb5ed18)
+![original_app画面遷移 drawio ](https://github.com/kmikiko/original_app/assets/127947837/f7acd392-22d1-4a3a-b30f-b1eead0a8599)
 
 
 ## ER図　
