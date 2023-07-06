@@ -44,4 +44,4 @@ https://www.figma.com/file/vuSW4oWcpo730zwOtS08XB/Untitled?type=design&node-id=0
 
 
 ## ER図　
-![original_app_er drawio ](https://github.com/kmikiko/original_app/assets/127947837/5254fa02-b991-49af-8e91-da88c88d9165)
+![original_app_er drawio ](https://github.com/kmikiko/original_app/assets/127947837/edb4a3a2-9ed7-48e0-b28a-ce95683d3b0d)
