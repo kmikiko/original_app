@@ -17,8 +17,5 @@ assignees: kmikiko
 
 - [ ] 細かいタスク
 
-# 参考
 
-## サイトURL
-
-## 資料
+##  参考サイトURL
